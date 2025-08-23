@@ -54,8 +54,6 @@ class ProfileScreen extends StatelessWidget {
               const CircleAvatar(
                 radius: 26,
                 backgroundImage: AssetImage('assets/images/user.png'),
-                // If you don't have assets, use backgroundColor:
-                // backgroundColor: Color(0xFF222733),
               ),
             ],
           ),

@@ -1,4 +1,3 @@
-import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 import 'package:glucose_app/widgets/rootshell.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -14,9 +13,9 @@ class GlucoseApp extends StatelessWidget {
       brightness: Brightness.dark,
       scaffoldBackgroundColor: const Color(0xFF0D0F14),
       colorScheme: const ColorScheme.dark(
-        primary: Color(0xFF7C5CFF), // purple "+"
-        secondary: Color(0xFF2AD5C9), // teal line
-        surface: Color(0xFF151A22),   // card
+        primary: Color(0xFF7C5CFF),
+        secondary: Color(0xFF2AD5C9),
+        surface: Color(0xFF151A22),
         onSurface: Colors.white,
         tertiary: Color(0xFF44C069),
       ),

@@ -26,7 +26,7 @@ class RootShellState extends State<RootShell> {
 
   void onItemTap(int i) {
     if (i == 2) {
-      // “+” action — you can open a modal here
+      // “+” action — to open a modal sheet
       showModalBottomSheet(
         context: context,
         backgroundColor: const Color(0xFF151A22),
