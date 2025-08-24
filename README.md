@@ -19,7 +19,7 @@ This project recreates the dark-themed diabetes dashboard with smooth charts, pi
 
 | Home | Insights | Profile |
 |------|----------|---------|
-| ![Home](https://github.com/user-attachments/assets/3acd5f03-0c9c-4da7-824a-9b431d9eeab4) | ![Insights](<img width="431" height="890" alt="Screenshot 2025-08-24 at 12 52 14 am" src="https://github.com/user-attachments/assets/f2bc82c5-93b9-47fa-81d8-eb27c7217e0d" />) | ![Profile](<img width="426" height="890" alt="Screenshot 2025-08-24 at 12 52 37 am" src="https://github.com/user-attachments/assets/f3e0b133-8d8e-40b5-88a7-c5474cece019" />) |
+| ![Home]<img src="https://github.com/user-attachments/assets/3acd5f03-0c9c-4da7-824a-9b431d9eeab4" width="200"/>) | ![Insights](<img width="431" height="890" alt="Screenshot 2025-08-24 at 12 52 14 am" src="https://github.com/user-attachments/assets/f2bc82c5-93b9-47fa-81d8-eb27c7217e0d" />) | ![Profile](<img width="426" height="890" alt="Screenshot 2025-08-24 at 12 52 37 am" src="https://github.com/user-attachments/assets/f3e0b133-8d8e-40b5-88a7-c5474cece019" />) |
 
 
 ---
