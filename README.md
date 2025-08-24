@@ -25,6 +25,15 @@ This project recreates the dark-themed diabetes dashboard with smooth charts, pi
 
 https://github.com/user-attachments/assets/a555d3dc-1fdd-4a30-900d-2ac2544b87c8
 
+---
+## Challenges & Solutions
+
+Smooth Graphs – Tweaked fl_chart settings (isCurved, custom axis labels, dotData) to match Dribbble visuals
+
+Custom Navigation – Built a pill-shaped bottom bar from scratch since BottomNavigationBar didn’t support the design
+
+Theme Consistency – Used ColorScheme.dark + custom palette for cards, icons, and text
+
 
 
 
